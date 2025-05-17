@@ -1,0 +1,48 @@
+[07/05/2025 16:30] Chamado #1 ABERTO por Franklin na linha lm04
+[08/05/2025 15:04] Chamado #1 ABERTO por Franklin na linha lm08
+[16/05/2025 14:33] Chamado #1 ABERTO por Franklin na linha lm06
+[16/05/2025 14:36] Login: admin
+[16/05/2025 15:42] Chamado #1 ABERTO por Lion na linha lm04
+[16/05/2025 15:42] Chamado #1 ABERTO por Lion na linha lm08
+[16/05/2025 15:42] Chamado #1 ABERTO por Lion na linha lm10
+[16/05/2025 15:43] Chamado #1 ABERTO por Lion na linha lm12
+[16/05/2025 15:44] Chamado #2 ABERTO por Lion na linha lm10
+[16/05/2025 15:45] Chamado #2 ABERTO por Lion na linha lm12
+[16/05/2025 15:45] Chamado #1 fechado por admin na linha lm10
+[16/05/2025 15:46] Chamado #1 fechado por admin na linha lm06
+[16/05/2025 16:12] Chamado #1 ABERTO por Lion na linha lm04
+[16/05/2025 16:12] Chamado #1 fechado por admin na linha lm04
+[16/05/2025 16:28] Chamado #1 ABERTO por Felipe Robert na linha lm08
+[16/05/2025 16:29] Chamado #1 fechado por admin na linha lm08
+[16/05/2025 16:31] Chamado #2 ABERTO por Felipe Robert na linha lm08
+[17/05/2025 07:06] Login: admin
+[17/05/2025 07:08] Usuário criado: Ulisses (comum)
+[17/05/2025 07:08] Usuário criado: Felipe Robert (comum)
+[17/05/2025 07:08] Usuário criado: Rayane (comum)
+[17/05/2025 07:09] Usuário criado: Carlos Alberto (comum)
+[17/05/2025 07:09] Usuário criado: Fabiana (comum)
+[17/05/2025 07:09] Logout: admin
+[17/05/2025 07:09] Login: Ulisses
+[17/05/2025 07:28] Logout: Ulisses
+[17/05/2025 07:28] Login: admin
+[17/05/2025 07:28] Usuário criado: Franklin (admin)
+[17/05/2025 07:28] Logout: admin
+[17/05/2025 07:28] Login: Franklin
+[17/05/2025 08:32] Usuário criado: Saara (comum)
+[17/05/2025 08:33] Usuário criado: Carlos Domingues (admin)
+[17/05/2025 10:33] Login: Franklin
+[17/05/2025 10:36] Login: Franklin
+[17/05/2025 10:37] Logout: Franklin
+[17/05/2025 10:39] Chamado #1 ABERTO por Filipe na linha lm06
+[17/05/2025 10:39] Login: Franklin
+[17/05/2025 10:39] Chamado #1 fechado por Franklin na linha lm06
+[17/05/2025 10:42] Chamado #1 ABERTO por Filipe na linha lm04
+[17/05/2025 10:44] Status registrado por Franklin na linha lm06
+[17/05/2025 10:49] Chamado #2 ABERTO por Filipe na linha lm04
+[17/05/2025 10:49] Chamado #3 ABERTO por Filipe na linha lm04
+[17/05/2025 10:49] Logout: Franklin
+[17/05/2025 10:50] Login: Franklin
+[17/05/2025 10:50] Chamado #4 ABERTO por Filipe na linha lm04
+[17/05/2025 11:04] Usuário criado: Filipe Crysthian (comum)
+[17/05/2025 11:17] Login: Saara
+[17/05/2025 12:43] Login: Carlos Alberto

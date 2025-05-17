@@ -1,0 +1,10 @@
+admin;123;admin
+Ulisses;123;comum
+Felipe Robert;123;comum
+Rayane;123;comum
+Carlos Alberto;123;comum
+Fabiana;123;comum
+Franklin;123;admin
+Saara;123;comum
+Carlos Domingues;123;admin
+Filipe Crysthian;123;comum

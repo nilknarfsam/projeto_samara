@@ -1,0 +1,36 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Logs
+*.log
+
+# Virtual environments
+venv/
+.env/
+
+# Editor/IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Backup
+*.bak
+
+# Distribuições e compilações
+dist/
+build/
+*.egg-info
+
+# Arquivos de Excel gerados
+*.xlsx
+
+# Arquivos temporários
+*.tmp
+*.swp
